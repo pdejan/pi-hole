@@ -1,4 +1,3 @@
 # Private Pi-hole blocklist for personal use.
 # Author: Dejan Popovic
 
-olx.ba
