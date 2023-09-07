@@ -1,2 +1,3 @@
-# pi-hole
-Blocklist for pi-hole
+# Pi-hole blocklist
+
+Private blocklist for pi-hole
