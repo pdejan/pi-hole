@@ -1,2 +1,2 @@
-# Persona; Pi-hole blocklist.
+# Personal Pi-hole blocklist.
 # Author: Dejan Popovic
