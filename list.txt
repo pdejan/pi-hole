@@ -1,2 +1,4 @@
 # Personal Pi-hole blocklist.
 # Author: Dejan Popovic
+
+adrs.hit.gemius.pl
