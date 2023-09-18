@@ -2,3 +2,4 @@
 # Author: Dejan Popovic
 
 adrs.hit.gemius.pl
+ams.creativecdn.com
