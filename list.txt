@@ -6,3 +6,4 @@ ams.creativecdn.com
 display.adnativia.com
 cat.fr3.eu.criteo.com
 ad.doubleclick.net
+ad-srv.net
